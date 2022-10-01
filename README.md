@@ -5,7 +5,7 @@
 <hr>
 <p align="center"><img src="https://streak-stats.demolab.com/?user=arhmAli&theme=highcontrast" width="400">
 <hr>
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhmAli">
+<p align="left"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhmAli">
 <hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
