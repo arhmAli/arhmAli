@@ -1,11 +1,11 @@
 ### Hello Im **Arham Khan** :man_scientist:	
 ***A programming enthusiastic. I love to code and perform different tasks while making awesome apps. I love to learn new technologies related to programming and apply them in real life***:technologist:	
 <hr>
-<p align="center"><img align='center' src="https://github-readme-stats.vercel.app/api?username=arhmAli&show_icons=true&theme=maroongold" width="400">
+<p align="center"><img align='center' src="https://github-readme-stats.vercel.app/api?username=arhmAli&show_icons=true&theme=maroongold" width="500">
 <hr>
-<p align="center"><img src="https://streak-stats.demolab.com/?user=arhmAli&theme=highcontrast" width="400">
+<p align="center"><img src="https://streak-stats.demolab.com/?user=arhmAli&theme=highcontrast" width="500">
 <hr>
-<p align="left"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhmAli">
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhmAli&langs_count=7&layout=compact&theme=dark" width="500">
 <hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
