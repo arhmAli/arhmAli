@@ -19,5 +19,5 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arhmali" alt="arhmali" /></a> </p>
 <hr>
-<h4>A dad joke?</h4>
+<h4>A Joke?</h4>
 <p align="center"><img src="https://readme-jokes.vercel.app/api?theme=gotham" alt="Jokes Card" align="center" />
