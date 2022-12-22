@@ -21,5 +21,8 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arhmali" alt="arhmali" /></a> </p>
 <hr>
+<h3>Codewars Rank:<h3/>
+  <p align="left"><img src="https://www.codewars.com/users/Arham%20Khan/badges/small"/></p>
+  <hr>
 <h4>A Joke?</h4>
 <p align="center"><img src="https://readme-jokes.vercel.app/api?theme=gotham" alt="Jokes Card" align="center" />
