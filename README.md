@@ -1,7 +1,7 @@
 ### Hello Im **Arham Khan** :man_scientist:	
 ***A programming enthusiastic. I love to code and perform different tasks while making awesome programs (atleast i try). I love to learn new technologies related to programming and apply them in real life***:technologist:	
-<hr>
-<p align="center"><img align='center' src="https://github-readme-stats.vercel.app/api?username=arhmAli&show_icons=true&theme=maroongold" width="430">
+<!-- <hr>
+<p align="center"><img align='center' src="https://github-readme-stats.vercel.app/api?username=arhmAli&show_icons=true&theme=maroongold" width="430"> -->
 <hr>
 <p align="center"><img src="https://streak-stats.demolab.com/?user=arhmAli&theme=highcontrast" width="430">
 <hr>
