@@ -5,8 +5,7 @@
 <hr>
 <p align="center"><img src="https://streak-stats.demolab.com/?user=arhmAli&theme=highcontrast" width="430">
 <hr>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhmAli&hide=M,css,scss,html&layout=compact&theme=dark&langs_count=10" width="400"/></p>
-<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhmAli&langs_count=10&layout=compact&theme=dark&hide=M&hide=HTML&hide=CSS&hide=SCSS" width="430"> -->
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhmAli&hide=M,css,scss,html&layout=compact&theme=dark&langs_count=9" width="400"/></p>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
