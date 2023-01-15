@@ -1,11 +1,11 @@
 ### Hello Im **Arham Khan** :man_scientist:	
 ***A programming enthusiastic. I love to code and perform different tasks while making awesome programs (atleast i try). I love to learn new technologies related to programming and apply them in real life***:technologist:	
-<!-- <hr>
-<p align="center"><img align='center' src="https://github-readme-stats.vercel.app/api?username=arhmAli&show_icons=true&theme=maroongold" width="430"> -->
 <hr>
-<p align="center"><img src="https://streak-stats.demolab.com/?user=arhmAli&theme=highcontrast" width="430">
+<p align="center" display="inline-block"><img src="https://github-readme-stats-ruby-one.vercel.app/api?username=arhmAli&show_icons=true&theme=dark" height="160" /> 
 <hr>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhmAli&hide=M,css,scss,html&layout=compact&theme=dark&langs_count=10" width="400"/></p>
+<p align="center" display="inline-block"><img align="center" src="https://streak-stats.demolab.com/?user=arhmAli&theme=dark" width="430"> 
+<hr>
+<p align="center"><img src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=arhmAli&hide=M,css,scss,html&layout=compact&theme=dark&langs_count=10" width="400"/></p>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
@@ -18,7 +18,9 @@
 <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a>
 <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a>
 <a><img src="https://user-images.githubusercontent.com/110810048/212529581-bedb2b0b-d164-4423-9d53-08f4ba698595.svg" width="40" height="40"/></a>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arhmali" alt="arhmali" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arhmali" alt="" /></a> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=arhmAli&theme=onedark"/>
+<!-- <p align="center"><a href="https://github-profile-trophy-ruby-one.vercel.app/?username=ryo-ma&theme=onedark"><img src="https://github.com/ryo-ma/github-profile-trophy"/></a></p> -->
 <hr>
 <h3>Codewars Rank:<h3/>
   <p align="left"><img src="https://www.codewars.com/users/Arham%20Khan/badges/small"/></p>
