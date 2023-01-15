@@ -19,7 +19,6 @@
 <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a>
 <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a>
 <a><img src="https://user-images.githubusercontent.com/110810048/212529581-bedb2b0b-d164-4423-9d53-08f4ba698595.svg" width="40" height="40"/></a>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arhmali" alt="" /></a> </p>
 <h3>🏆 Trophies Given By Github :</h3>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=arhmAli&theme=onedark"/>
 <!-- <p align="center"><a href="https://github-profile-trophy-ruby-one.vercel.app/?username=ryo-ma&theme=onedark"><img src="https://github.com/ryo-ma/github-profile-trophy"/></a></p> -->
