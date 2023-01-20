@@ -2,12 +2,13 @@
 ***A programming enthusiastic. I love to code and perform different tasks while making awesome programs (atleast i try). I love to learn new technologies related to programming and apply them in real life***:technologist:	
 <hr>
 <h3>GITHUB STATS 📊:</h3>
-<p align="center" display="inline-block"><img src="https://github-readme-stats-ten-gilt.vercel.app/api?username=arhmAli&show_icons=true&theme=dark" height="160" /> 
+<p align="center" display="inline-block"><img src="https://github-readme-arhm-trkb.vercel.app/api?username=arhmAli&show_icons=true&theme=dark" height="160" /> 
 <hr>
 <p align="center" display="inline-block"><img align="center" src="https://streak-stats.demolab.com/?user=arhmAli&theme=dark" width="430"> 
 <hr>
-<p align="center"><img 
- src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/username=arhmAli&hide=M,css,scss,html&layout=compact&theme=dark&langs_count=10" width="400"/></p>
+<p align="center">
+  <img align="center" src="https://github-readme-arhm-trkb.vercel.app/api/top-langs/?username=arhmAli&hide=html,css,scss&langs_count=10&theme=dark&layout=compact" />
+</p>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
