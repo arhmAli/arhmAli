@@ -1,5 +1,5 @@
 ### Hello Im **Arham Khan** :man_scientist:	
-***A programming enthusiajsjsstic. I love to code and perform different tasks while making awesome programs (atleast i try). I love to learn new technologies related to programming and apply them in real life***:technologist:	
+***A programming enthusiastic. I love to code and perform different tasks while making awesome programs (atleast i try). I love to learn new technologies related to programming and apply them in real life***:technologist:	
 <hr>
 <h3>GITHUB STATS 📊:</h3>
 <p align="center" display="inline-block"><img src="https://github-readme-arhm-trkb.vercel.app/api?username=arhmAli&show_icons=true&theme=dark" height="160" /> 
