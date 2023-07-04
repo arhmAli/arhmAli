@@ -28,8 +28,8 @@
 <h3>Codewars Rank:<h3/>
   <p align="left"><img src="https://www.codewars.com/users/Arham%20Khan/badges/small"/></p>
   <hr>
-  <div align='center'>
   <h3>Connect with me: <h3/>
+  <div align='center'>
     <a href="mailto:arhamkhank353@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
     <a href="https://www.linkedin.com/in/arhamal1/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.0/icons/linkedin.svg" width="40" height="50"/></a>
     <a href="https://discord.gg/VBsAkhzs"><img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white" width="50" height="42"/></a>
