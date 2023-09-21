@@ -2,12 +2,12 @@
 ***Just a guy who fell in love with 0's and 1's .***	
 <hr>
 <h3>GITHUB STATS 📊:</h3>
-<p align="center" display="inline-block"><img src="https://github-readme-arhm-trkb.vercel.app/api?username=arhmAli&show_icons=true&theme=dracula" height="160" /> 
+<p align="center" display="inline-block"><img src="https://arhamkhan.vercel.app/api?username=arhmAli&show_icons=true&theme=dracula" height="160" /> 
 <hr>
 <p align="center" display="inline-block"><img align="center" src="https://streak-stats.demolab.com?user=arhmAli&theme=javascript-dark&hide_border=true&border_radius=15.4&fire=2811EB&stroke=EB1414" width="430"> 
 <hr>
 <p align="center">
-<img align="center" src="https://github-readme-arhm-trkb.vercel.app/api/top-langs/?username=arhmAli&hide=jupyter%20notebook,html,css,scss,cpp&langs_count=6&theme=dracula&layout=compact" />
+<img align="center" src="https://arhamkhan.vercel.app/api/top-langs/?username=arhmAli&hide=jupyter%20notebook,html,css,scss,cpp&langs_count=6&theme=dracula&layout=compact" />
 </p>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
