@@ -7,7 +7,7 @@
 <p align="center" display="inline-block"><img align="center" src="https://streak-stats-1.vercel.app?user=arhmAli&theme=transparent&border_radius=26.2&locale=ur_PK&card_width=430"> 
 <hr>
 <p align="center">
-<img align="center" src="https://arhamkhan.vercel.app/api/top-langs/?username=arhmAli&hide=jupyter%20notebook,html,css,scss,cpp&langs_count=6&theme=dracula&layout=compact" />
+<img align="center" src="https://arhamkhan.vercel.app/api/top-langs/?username=arhmAli&hide=jupyter%20notebook,html,css,scss,php&langs_count=6&theme=dracula&layout=compact" />
 </p>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
