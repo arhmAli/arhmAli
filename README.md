@@ -1,6 +1,8 @@
-Just a rookie coder on his journey in becoming a programmer ♥
 ### Hello Im **Arham Khan** :man_scientist:	
-***Just a guy who fell in love with 0's and 1's .***	
+***Just a guy who fell in love with 0's and 1's .***
+<br/>
+<br/>
+***KNOCK ME DOWN I"ll GET RIGHT UP .***
 <hr>
 <h3>GITHUB STATS 📊:</h3>
 <p align="center" display="inline-block"><img src="https://arhamkhan.vercel.app/api?username=arhmAli&show_icons=true&theme=dracula" height="160" /> 
