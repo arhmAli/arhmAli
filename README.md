@@ -7,7 +7,8 @@
 <h3>GITHUB STATS 📊:</h3>
 <p align="center" display="inline-block"><img src="https://arhamkhan.vercel.app/api?username=arhmAli&show_icons=true&theme=dracula" height="160" /> 
 <hr>
-<p align="center" display="inline-block"><img align="center" src="https://streak-stats-1.vercel.app?user=arhmAli&theme=transparent&border_radius=26.2&locale=ur_PK&card_width=430"> 
+<p align="center" display="inline-block"><img align="center" src="https://streak-stats-1.vercel.app?user=arhmAli&theme=transparent&border_radius=26.2&&card_width=430"> 
+<!--   if i want to change to urdu locale=ur_PK in above linnk src -->
 <hr>
 <p align="center">
 <img align="center" src="https://arhamkhan.vercel.app/api/top-langs/?username=arhmAli&hide=jupyter%20notebook,html,css,scss,php&langs_count=6&theme=dracula&layout=compact" />
