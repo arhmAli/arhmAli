@@ -31,6 +31,7 @@
 <hr>
 <h3>Codewars Rank:<h3/>
   <p align="left"><img src="https://www.codewars.com/users/Arham%20Khan/badges/small"/></p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=arhmAli&label=Profile%20views&color=0e75b6&style=flat" alt=profile-views" /> </p>
   <hr>
   <h3>Connect with me: <h3/>
   <div align='center'>
