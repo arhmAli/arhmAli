@@ -4,7 +4,50 @@
 <br/>
 ***KNOCK ME DOWN I"ll GET RIGHT UP .***
 <hr>
-<h3>GITHUB STATS 📊:</h3>
+<table align="center">
+  <tr>
+    <th align="left">Ask me about:</th>
+    <th align="left">Currently Learning:</th>
+  </tr>
+  <tr>
+    <td>💻 Web Development (preferably MERN stack)</td>
+    <td>🖥️ Desktop Development</td>
+  </tr>
+  <tr>
+    <td>🤖 Microcontroller Programming</td>
+    <td>👀 Computer Vision</td>
+  </tr>
+  <tr>
+    <td>🎛️ Control Systems Programming</td>
+    <td>💻 MERN stack</td>
+  </tr>
+  <tr>
+    <td>🤖 Robotics Programming</td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>🤖 PLC Programming on FATEK and SIEMENS</td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>🧑‍💻 C++ Programming</td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>🤖 ROS Development</td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>🖥️ Desktop Development</td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>🧠 Machine learning algorithms</td>
+    <td> </td>
+  </tr>
+</table>
+
+  <h3>GITHUB STATS 📊:</h3>
 <p align="center" display="inline-block"><img src="https://arhamkhan.vercel.app/api?username=arhmAli&show_icons=true&theme=dracula" height="160" /> 
 <hr>
 <p align="center" display="inline-block"><img align="center" src="https://streak-stats-1.vercel.app?user=arhmAli&theme=transparent&border_radius=26.2&&card_width=430"> 
