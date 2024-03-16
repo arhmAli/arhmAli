@@ -4,9 +4,10 @@
 <br/>
 ***KNOCK ME DOWN I"ll GET RIGHT UP .***
 <hr>
+<h3>Summary of me (as of March 2024):</h3>
 <table align="center">
   <tr>
-    <th align="left">Ask me about:</th>
+    <th align="left">Skills:</th>
     <th align="left">Currently Learning:</th>
   </tr>
   <tr>
