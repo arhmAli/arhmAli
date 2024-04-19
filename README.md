@@ -50,12 +50,17 @@
 
   <h3>GITHUB STATS 📊:</h3>
 <p align="center" display="inline-block"><img src="https://arhamkhan.vercel.app/api?username=arhmAli&show_icons=true&theme=dracula" height="160" /> 
+
+<p align="center" display="inline-block"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arhmAli&theme=transparent&utcOffset=5" height="160" /> 
+<p align="center" display="inline-block"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arhmAli&theme=transparent" height="160" /> 
 <hr>
 <p align="center" display="inline-block"><img align="center" src="https://streak-stats-1.vercel.app?user=arhmAli&theme=transparent&border_radius=26.2&&card_width=430"> 
 <!--   if i want to change to urdu locale=ur_PK in above linnk src -->
 <hr>
-<p align="center">
+<!-- <p align="center">
 <img align="center" src="https://arhamkhan.vercel.app/api/top-langs/?username=arhmAli&hide=jupyter%20notebook,html,css,scss,php&langs_count=6&theme=dracula&layout=compact" />
+ -->
+<p align="center" display="inline-block"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arhmAli&theme=transparent&exclude=CSS,SCSS,Jupyter Notebook,HTML" height="160" /> 
 </p>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
