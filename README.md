@@ -1,8 +1,4 @@
 ### Hello Im **Arham Khan** :man_scientist:	
-***Just a guy who fell in love with 0's and 1's .***
-<br/>
-<br/>
-***KNOCK ME DOWN I"ll GET RIGHT UP .***
 <hr>
 <h3>Summary of me (as of March 2024):</h3>
 <table align="center">
